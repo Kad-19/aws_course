@@ -1,6 +1,3 @@
-
-
-
 # Lab Evidence: S3 Storage and Content Delivery
 
 ## 1. Bucket Public Access Block
