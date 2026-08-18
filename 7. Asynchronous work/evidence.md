@@ -19,7 +19,6 @@ aws sqs send-message \
 ```
 
 ## 2. SQS queue attributes showing DLQ configuration
-*(Please insert your screenshot of the SQS Dead-Letter Queue settings here)*
 ![screenshot of the SQS Dead-Letter](./dlq_configuration.png)
 
 
